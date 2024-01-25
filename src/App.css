@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  display: flex;
+}
+.container div{
+  flex: 1;
+ 
+}
+
+.card{
+  outline: 1px solid black
+}
